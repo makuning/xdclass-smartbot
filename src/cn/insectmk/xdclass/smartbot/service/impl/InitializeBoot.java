@@ -1,6 +1,6 @@
-package top.marken.xdclass.smartbot.service.impl;
+package cn.insectmk.xdclass.smartbot.service.impl;
 
-import top.marken.xdclass.smartbot.util.JsonUtil;
+import cn.insectmk.xdclass.smartbot.util.JsonUtil;
 
 import java.io.*;
 import java.util.Map;

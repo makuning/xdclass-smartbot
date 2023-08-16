@@ -1,4 +1,4 @@
-package top.marken.xdclass.smartbot.model;
+package cn.insectmk.xdclass.smartbot.model;
 
 /**
  * @author makun

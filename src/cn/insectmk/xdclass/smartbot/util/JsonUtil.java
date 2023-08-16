@@ -1,4 +1,4 @@
-package top.marken.xdclass.smartbot.util;
+package cn.insectmk.xdclass.smartbot.util;
 
 import com.google.gson.Gson;
 

@@ -1,7 +1,7 @@
-package top.marken.xdclass.smartbot.service;
+package cn.insectmk.xdclass.smartbot.service;
 
-import top.marken.xdclass.smartbot.model.QinyunkeRequest;
-import top.marken.xdclass.smartbot.model.QinyunkeResponse;
+import cn.insectmk.xdclass.smartbot.model.QinyunkeRequest;
+import cn.insectmk.xdclass.smartbot.model.QinyunkeResponse;
 
 /**
  * @author makun
